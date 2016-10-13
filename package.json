@@ -1,0 +1,24 @@
+{
+	"name": "teste-soks",
+	"version": "1.0.0",
+	"description": "Teste for job interview of Sôks company",
+	"scripts": {
+		"start": "cd src && php -S localhost:8080 alexandre-de-souza.php",
+		"test": "cd test && php alexandre-de-souza.php"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/aleDsz/teste-soks.git"
+	},
+	"keywords": [
+		"test",
+		"soks",
+		"job"
+	],
+	"author": "Alexandre de Souza <alexandre@aledsz.com.br>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/aleDsz/teste-soks/issues"
+	},
+	"homepage": "https://github.com/aleDsz/teste-soks#readme"
+}
